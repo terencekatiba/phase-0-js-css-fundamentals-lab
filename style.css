@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
     background-color: #333;
     font-size: 1.2em;
     padding: 1em;
@@ -22,15 +22,15 @@
 .navbar li a{
     color: #fff;
 }
-.main content{
+.main-content{
     padding-top:5em ;
 }
-.main content section{
+.main-content section{
     padding: 2em 1em;
     text-align: center;
 }
 #home h1{
-    font size: 2.5em;
+    font-size: 2.5em;
     margin-bottom: 0.5em;
 }
 #home p{
@@ -68,9 +68,9 @@
 .portfolio-item:hover {
     transform: scale(1.05);
 }
-footer{
+#footer{
     background-color: #222;
-    font: #fff;
+    color: #fff;
     padding: 2em;
     text-align: center;
     position: relative;
